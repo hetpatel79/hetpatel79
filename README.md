@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38db.png" width="300" alt="Coding GIF">
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding GIF">
 </div>
 
 Hi there! I'm **HET PATEL**, a passionate student pursuing Artificial Intelligence and Machine Learning at **CHARUSAT University**. 
@@ -73,7 +73,7 @@ Hi there! I'm **HET PATEL**, a passionate student pursuing Artificial Intelligen
 ## 📚 Education
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38db.png" width="50" alt="Education Icon">
+  🎓
 </div>
 
 🎓 **CHARUSAT University**  
@@ -94,7 +94,7 @@ Hi there! I'm **HET PATEL**, a passionate student pursuing Artificial Intelligen
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38db.png" width="50" alt="Projects Icon">
+  🚀
 </div>
 
 ### 🤖 [AI/ML Project Name]
@@ -128,16 +128,14 @@ Data analysis and visualization project exploring [topic]. Includes predictive m
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetpatel79&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel79&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<!-- GitHub Streak removed due to service issues -->
 
 ---
 
 ## 🌟 Achievements & Certifications
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38db.png" width="50" alt="Achievements Icon">
+  🌟
 </div>
 
 - 🏆 [Achievement/Certification Name] - [Issuing Organization]
@@ -150,7 +148,7 @@ Data analysis and visualization project exploring [topic]. Includes predictive m
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38db.png" width="50" alt="Connect Icon">
+  🤝
 </div>
 
 I'm always excited to collaborate on interesting projects and learn from the community!
@@ -169,7 +167,7 @@ I'm always excited to collaborate on interesting projects and learn from the com
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38db.png" width="50" alt="Focus Icon">
+  🎯
 </div>
 
 - 🔬 Exploring advanced ML techniques and MLOps
@@ -183,7 +181,7 @@ I'm always excited to collaborate on interesting projects and learn from the com
 ## 🎨 Fun Facts
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38db.png" width="50" alt="Fun Icon">
+  🎨
 </div>
 
 - ☕ Fueled by coffee and curiosity
@@ -195,7 +193,7 @@ I'm always excited to collaborate on interesting projects and learn from the com
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38db.png" width="100" alt="Thank You">
+  🙏
 </div>
 
 <div align="center">
@@ -203,9 +201,7 @@ I'm always excited to collaborate on interesting projects and learn from the com
   <p>Feel free to reach out for collaborations or just to say hi! 😊</p>
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hetpatel79/count.svg" alt="Visitor Count" />
-</div>
+<!-- Visitor Count removed due to service issues -->
 
 ---
 
