@@ -7,7 +7,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/CHARUSAT-AI%20%26%20ML-A855F7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-22c55e?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/hetpatel79?label=Followers&style=for-the-badge&color=A855F7" />
 </div>
 
 ---
