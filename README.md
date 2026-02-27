@@ -14,12 +14,16 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
+
 I'm **Het Patel**, an AI/ML student at **CHARUSAT University**, Gujarat — passionate about building smart solutions and exploring what's next in tech.
 
 - 🎓 B.Tech in Artificial Intelligence & Machine Learning
 - 🤖 Into ML, Deep Learning, Data Science & Full-Stack Dev
 - 🔭 Currently exploring LLMs, Generative AI & MLOps
 - 🤝 Always open to collaborations and open-source
+
+<br clear="right"/>
 
 ---
 
@@ -66,12 +70,18 @@ I'm **Het Patel**, an AI/ML student at **CHARUSAT University**, Gujarat — pass
 ## 🤝 Connect With Me
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/het-patel-ab1005293)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetpatel79@gmail.com)
-[![Leetcode](https://img.shields.io/badge/leetcode-D14836?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ihetpatel79/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ihetpatel79/)
+
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Stay+Curious!+🔍;Keep+Building!+🚀;Happy+Learning!+📚" alt="Footer" />
