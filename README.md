@@ -56,10 +56,7 @@ I'm **Het Patel**, an AI/ML student at **CHARUSAT University**, Gujarat — pass
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hetpatel79&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_color=A855F7&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetpatel79&layout=compact&theme=tokyonight&hide_border=false&border_color=A855F7&bg_color=0D1117&title_color=A855F7" />
-</div>
+
 
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=hetpatel79&theme=tokyonight&hide_border=false&border=A855F7&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
