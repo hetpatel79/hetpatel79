@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Het Patel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions;Driven+by+Curiosity+%26+Innovation;Always+Learning.+Always+Building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines= Artificial+Intelligence+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions;Driven+by+Curiosity+%26+Innovation;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 <br>
 
@@ -41,6 +41,7 @@ I'm always excited to connect with professionals, researchers, and developers wh
 <br><br>
 
 </div>
+
 ---
 
 # 🤝 Let's Connect
