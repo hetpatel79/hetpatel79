@@ -36,53 +36,35 @@ I'm always excited to connect with professionals, researchers, and developers wh
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hetpatel79&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hetpatel79&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetpatel79&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hetpatel79&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-I'm always open to discussing **AI/ML opportunities**, collaborating on meaningful projects, contributing to open source, or connecting with people passionate about technology and innovation.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/hetpatel2111">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:ihetpatel79@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/ihetpatel79">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" height="55"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=hetpatel79&theme=tokyonight&hide_border=true"/>
 
 <br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hetpatel79&theme=tokyo-night&hide_border=true"/>
+
+</div>
+---
+# 🤝 Let's Connect
+
+I'm always open to discussing **AI/ML opportunities**, collaborating on impactful projects, contributing to open source, or connecting with professionals passionate about Artificial Intelligence and emerging technologies.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hetpatel2111" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:ihetpatel79@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/ihetpatel79" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55" />
+</a>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Create+Impact.;Thanks+for+Visiting!+⭐"/>
 
