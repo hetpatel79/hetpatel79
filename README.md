@@ -2,8 +2,7 @@
 
 # 👋 Hey there! I'm Het Patel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions;Driven+by+Curiosity+%26+Innovation;Always+Learning.+Always+Building." alt="Typing SVG"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Building+AI-Powered+Solutions;Exploring+LLMs+%26+Generative+AI;Open+to+AI%2FML+Opportunities" alt="Typing SVG"/>
 <br>
 
 <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Opportunities-22C55E?style=for-the-badge"/>
