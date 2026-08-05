@@ -48,7 +48,7 @@ If you'd like to discuss opportunities, collaborate on projects, or simply excha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Het%20Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hetpatel2111)
 
-[![Email](https://img.shields.io/badge/Email-hetpatel79%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihetpatel79@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihetpatel79@gmail.com)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ihetpatel79)
 
