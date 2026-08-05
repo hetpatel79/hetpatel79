@@ -2,9 +2,9 @@
 
 # 👋 Hey there! I'm Het Patel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions;Curious+Mind+%7C+Continuous+Learner;Turning+Ideas+into+Reality" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions;Driven+by+Curiosity+%26+Innovation;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
-<br/>
+<br>
 
 <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Opportunities-22C55E?style=for-the-badge"/>
 
@@ -16,23 +16,37 @@
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm passionate about leveraging Artificial Intelligence to solve meaningful real-world problems.
+Technology inspires me to think differently, solve meaningful problems, and build solutions that create real-world impact.
 
-My journey is driven by curiosity, continuous learning, and building practical solutions. I enjoy exploring emerging technologies, experimenting with new ideas, and transforming concepts into impactful applications.
+My primary interest lies in **Artificial Intelligence and Machine Learning**, where I enjoy exploring how intelligent systems can solve complex challenges and improve everyday experiences.
+
+I believe that growth comes from curiosity, consistency, and continuous learning. Every project is an opportunity to learn something new, challenge assumptions, and build solutions that matter.
 
 🏆 **2× NPTEL Elite Certified**
 
 🥇 **Top 2% Performer in Database Management System (NPTEL)**
 
-I believe that the best way to grow is by continuously building, learning, and collaborating with people who are equally passionate about innovation.
+I'm always excited to connect with professionals, researchers, and developers who share a passion for Artificial Intelligence, innovation, and impactful technology.
+
+<br clear="right"/>
 
 ---
 
-# 📈 GitHub Activity
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=hetpatel79&theme=tokyonight&hide_border=false&border=A855F7&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hetpatel79&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetpatel79&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hetpatel79&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -40,15 +54,25 @@ I believe that the best way to grow is by continuously building, learning, and c
 
 # 🤝 Let's Connect
 
-I'm always happy to connect with professionals, recruiters, researchers, and developers interested in Artificial Intelligence, Machine Learning, and innovative technology.
-
-If you'd like to discuss opportunities, collaborate on projects, or simply exchange ideas, feel free to reach out.
+I'm always open to discussing **AI/ML opportunities**, collaborating on meaningful projects, contributing to open source, or connecting with people passionate about technology and innovation.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Het%20Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hetpatel2111)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihetpatel79@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ihetpatel79)
+<a href="https://www.linkedin.com/in/hetpatel2111">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:ihetpatel79@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/ihetpatel79">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" height="55"/>
+</a>
 
 </div>
 
@@ -58,8 +82,8 @@ If you'd like to discuss opportunities, collaborate on projects, or simply excha
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
-<br/>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Keep+Learning.;Keep+Building.;Create+Impact.;Thanks+for+Visiting!+⭐"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Create+Impact.;Thanks+for+Visiting!+⭐"/>
 
 </div>
