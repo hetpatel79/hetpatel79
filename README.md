@@ -61,8 +61,8 @@ I'm always open to discussing **AI/ML opportunities**, collaborating on impactfu
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55" />
 </a>
 
-</div>
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Create+Impact.;Thanks+for+Visiting!+⭐"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Keep+Learning.;Keep+Building.;Create+Impact.;Thanks+for+Visiting!+⭐" alt="Footer Typing"/>
 
 </div>
