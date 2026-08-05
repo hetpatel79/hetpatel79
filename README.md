@@ -36,16 +36,13 @@ I'm always excited to connect with professionals, researchers, and developers wh
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hetpatel79&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=hetpatel79&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hetpatel79&theme=tokyo-night&hide_border=true"/>
-
 </div>
 ---
+
 # 🤝 Let's Connect
 
 I'm always open to discussing **AI/ML opportunities**, collaborating on impactful projects, contributing to open source, or connecting with professionals passionate about Artificial Intelligence and emerging technologies.
